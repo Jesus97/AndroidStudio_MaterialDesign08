@@ -96,7 +96,7 @@
                 android:scaleType="centerCrop"/>
 
             <TextView
-                android:id="@+id/Texto1"
+                android:id="@+id/Texto3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="EL RAPTOR DE LAS SABINAS"
@@ -126,7 +126,7 @@
                 android:scaleType="centerCrop"/>
 
             <TextView
-                android:id="@+id/Texto2"
+                android:id="@+id/Texto4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="EL RAPTOR DE LAS SABINAS"
